@@ -35,4 +35,4 @@ It supports authentication so it's safe. Based on SOLID.
 
 # UML Diagram:
 
-![Image](https://github.com/HryhorashPavlo/taxi-service/img/uml.png)
+![Image](https://github.com/HryhorashPavlo/taxi-service/blob/59e3b64f5dc41236ac1b6ce4022f8abbf645d62f/img/uml.png)
